@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HiR8U6cSt0wAJPOchfr1KUJeqgdjBa7LY+UlZRnilBawpGJCM4dnXnHWaqVatgr/Hh47wXQz0jt24ZuUmqHV3g==",
+  "success": true,
+  "projectFilePath": "C:\\Swinburne 2021\\Programing\\homestuff\\listsTask1\\listsTask1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Thomas Casey\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

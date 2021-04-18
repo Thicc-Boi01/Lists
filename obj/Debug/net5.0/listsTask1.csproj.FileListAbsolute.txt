@@ -1,0 +1,16 @@
+C:\Swinburne 2021\Programing\homestuff\listsTask1\bin\Debug\net5.0\listsTask1.exe
+C:\Swinburne 2021\Programing\homestuff\listsTask1\bin\Debug\net5.0\listsTask1.deps.json
+C:\Swinburne 2021\Programing\homestuff\listsTask1\bin\Debug\net5.0\listsTask1.runtimeconfig.json
+C:\Swinburne 2021\Programing\homestuff\listsTask1\bin\Debug\net5.0\listsTask1.runtimeconfig.dev.json
+C:\Swinburne 2021\Programing\homestuff\listsTask1\bin\Debug\net5.0\listsTask1.dll
+C:\Swinburne 2021\Programing\homestuff\listsTask1\bin\Debug\net5.0\ref\listsTask1.dll
+C:\Swinburne 2021\Programing\homestuff\listsTask1\bin\Debug\net5.0\listsTask1.pdb
+C:\Swinburne 2021\Programing\homestuff\listsTask1\obj\Debug\net5.0\listsTask1.csprojAssemblyReference.cache
+C:\Swinburne 2021\Programing\homestuff\listsTask1\obj\Debug\net5.0\listsTask1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Swinburne 2021\Programing\homestuff\listsTask1\obj\Debug\net5.0\listsTask1.AssemblyInfoInputs.cache
+C:\Swinburne 2021\Programing\homestuff\listsTask1\obj\Debug\net5.0\listsTask1.AssemblyInfo.cs
+C:\Swinburne 2021\Programing\homestuff\listsTask1\obj\Debug\net5.0\listsTask1.csproj.CoreCompileInputs.cache
+C:\Swinburne 2021\Programing\homestuff\listsTask1\obj\Debug\net5.0\listsTask1.dll
+C:\Swinburne 2021\Programing\homestuff\listsTask1\obj\Debug\net5.0\ref\listsTask1.dll
+C:\Swinburne 2021\Programing\homestuff\listsTask1\obj\Debug\net5.0\listsTask1.pdb
+C:\Swinburne 2021\Programing\homestuff\listsTask1\obj\Debug\net5.0\listsTask1.genruntimeconfig.cache
